@@ -1,0 +1,13 @@
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/bin/Debug/netcoreapp2.0/libColecciones.deps.json
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/bin/Debug/netcoreapp2.0/libColecciones.runtimeconfig.json
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/bin/Debug/netcoreapp2.0/libColecciones.runtimeconfig.dev.json
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/bin/Debug/netcoreapp2.0/libColecciones.dll
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/bin/Debug/netcoreapp2.0/libColecciones.pdb
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/obj/Debug/netcoreapp2.0/libColecciones.csproj.CoreCompileInputs.cache
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/obj/Debug/netcoreapp2.0/libColecciones.AssemblyInfoInputs.cache
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/obj/Debug/netcoreapp2.0/libColecciones.AssemblyInfo.cs
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/obj/Debug/netcoreapp2.0/libColecciones.dll
+/home/daniel/Documentos/Programación/C#/frameworkColecciones/libColecciones/obj/Debug/netcoreapp2.0/libColecciones.pdb
